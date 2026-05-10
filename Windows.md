@@ -137,6 +137,7 @@ From the Windows Instance in the OCI Console:
 **=================================================================================**
 
 **NEVER EVER START THE INSTANCE IF YOUR VCN SECURITY LIST / NSGs ALLOW RDP FROM ANY PUBLIC IP.**
+
 **FIRST RESTRICT RDP ACCESS TO A SINGLE IP, AS THIS WINDOWS INSTANCE NO LONGER HAS A PASSWORD**
 
 **=================================================================================**
