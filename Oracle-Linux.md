@@ -214,3 +214,7 @@ umount -l /sysroot
 
 reboot -f
 ```
+
+## Contact
+
+[github@olygo.com](mailto:github@olygo.com)
