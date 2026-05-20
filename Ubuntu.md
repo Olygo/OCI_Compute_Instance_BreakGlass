@@ -187,3 +187,7 @@ sudo umount /mnt/recovery
 ```
 ssh ./my_new_ssh_key.priv ubuntu@source_instance_ip
 ```
+
+## Contact
+
+[github@olygo.com](mailto:github@olygo.com)
